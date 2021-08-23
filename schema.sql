@@ -10,4 +10,5 @@ alter TABLE users
 add column first_name VARCHAR(100) not null,
 add column last_name VARCHAR(100) not null;
 
-
+first_name
+last_name
